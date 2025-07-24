@@ -1,7 +1,7 @@
 # 🍵 Sweet-Sip 🫖
 
 Welcome to **Sweet Sip**, a chai-making GUI application built with **Python** and **Tkinter**!  
-Design your perfect cup of chai by customizing cup size, sweetness level, milk content, and even rating your sip! ☕✨
+Design your perfect cup of chai by customizing cup size, sweetness level, milk content, even rating your sip! ☕✨
 
 ## 🚀 Features :--
 - 🧉 Choose your cup size 
@@ -34,8 +34,7 @@ Design your perfect cup of chai by customizing cup size, sweetness level, milk c
 ## 🫖 Enjoy your virtual chai break with Sweet Sip! 😌🍪
 
 💬 Feedback :--
-
-If you enjoyed this project or have suggestions:
+If you enjoyed this project or have suggestions :
 
 - 🌟 Star this repo
 
@@ -44,5 +43,5 @@ If you enjoyed this project or have suggestions:
 - 📬 Connect with me
 
 👨‍💻 Author :--
-Hi, I’m Ram — a passionate Full-Stack Developer who loves chai and coding!
+Hi, I’m Ram — a passionate Full-Stack Developer who loves coding!
 This project blends both my passions — creativity and comfort. ☕💻
