@@ -34,14 +34,14 @@ Design your perfect cup of chai by customizing cup size, sweetness level, milk c
 ## 🫖 Enjoy your virtual chai break with Sweet Sip! 😌🍪
 
 💬 Feedback :--
+
 If you enjoyed this project or have suggestions :
 
 - 🌟 Star this repo
 
-- 🐞 Raise an issue
-
 - 📬 Connect with me
 
 👨‍💻 Author :--
+
 Hi, I’m Ram — a passionate Full-Stack Developer who loves coding!
 This project blends both my passions — creativity and comfort. ☕💻
